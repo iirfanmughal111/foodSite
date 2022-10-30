@@ -1,0 +1,14 @@
+/* IndexPgae */
+#foodSearch{
+
+    background-image: url(../images/bg.jpg);
+    min-height: 30vh;
+
+}
+.card-title {
+    position: relative;
+    top: 90%;
+}
+a:hover{
+    cursor: pointer;
+}
